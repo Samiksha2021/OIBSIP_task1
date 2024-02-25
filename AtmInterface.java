@@ -328,8 +328,6 @@ public class AtmInterface {
             System.out.flush();
             ob.demo(ac);
         }
-
     }
-
 }
 
